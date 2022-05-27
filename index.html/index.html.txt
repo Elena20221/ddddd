@@ -13,3 +13,4 @@ else :
  zp_bank=input("Введите наличие зарплатного проекта:")
  strahovka=input("Введите наличие страховки:")
 demo file
+ggggggggggggggggggggggggggggggggggggggggggggggggggggg
